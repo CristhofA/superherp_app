@@ -15,8 +15,8 @@ Superhero App es una aplicación que permite buscar superhéroes y listar sus da
 ## 📸 Capturas de pantalla
 <div align="center">
   <img src="assets/screenshot1.jpeg" alt="Pantalla de búsqueda" width="30%"/>
-  <img src="assets/screenshot1.jpeg" alt="Pantalla de búsqueda" width="30%"/>
-  <img src="assets/screenshot1.jpeg" alt="Pantalla de búsqueda" width="30%"/>
+  <img src="assets/screenshot2.jpeg" alt="Pantalla de búsqueda" width="30%"/>
+  <img src="assets/screenshot3.jpeg" alt="Pantalla de búsqueda" width="30%"/>
 </div>
 
 ## 📦 Instalación
